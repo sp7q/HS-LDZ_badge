@@ -16,6 +16,6 @@ Hakierspejs Łódź badge, on which we teach people how to solder.
   (https://softsolder.com/2020/09/03/discrete-transistor-lm3909-led-flasher/)
 
 ![FrontVisu](Images/led.jpg)
-![BackVisu](Images/HS badge.jpg)
+![BackVisu](Images/HSbadge.jpg)
 ![Front](Images/5857200034775417092.jpg)
 ![Back](Images/5857200034775417093.jpg)
