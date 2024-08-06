@@ -14,3 +14,8 @@ Hakierspejs Łódź badge, on which we teach people how to solder.
 
   LTspice model is based on work from link :
   (https://softsolder.com/2020/09/03/discrete-transistor-lm3909-led-flasher/)
+
+  ![FrontVisu](images/led.jpg)
+   ![BackVisu](images/HS badge.jpg)
+  ![Front](images/5857200034775417092.jpg)
+   ![Back](images/5857200034775417093.jpg)
